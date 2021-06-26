@@ -16,6 +16,7 @@ public class SpringSecutiryWithJpaApplication {
 		
 		System.out.println("Spring security application is runing......");
 		System.out.println("This is my fist change uploded on git hub");
+		System.out.println("this is my second change upload in first Branch first and then move to master branch");
 	}
 
 }
