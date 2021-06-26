@@ -15,6 +15,7 @@ public class SpringSecutiryWithJpaApplication {
 		SpringApplication.run(SpringSecutiryWithJpaApplication.class, args);
 		
 		System.out.println("Spring security application is runing......");
+		System.out.println("This is my fist change uploded on git hub");
 	}
 
 }
